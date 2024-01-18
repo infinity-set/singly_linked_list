@@ -13,10 +13,6 @@ Welcome to the Singly Linked List Operations in C repository! This C program pro
 - [Memory Management and Pointers](#memory-management-and-pointers)
 - [Adding Nodes](#adding-nodes)
 - [Deleting Nodes](#deleting-nodes)
-- [Insert at Beginning](#insert-at-beginning)
-- [Insert at End](#insert-at-end)
-- [Insert at Index](#insert-at-index)
-- [Deleting Nodes](#deleting-nodes)
 - [Print List](#print-list)
 - [Usage](#usage)
 
