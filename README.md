@@ -96,7 +96,7 @@ void print_list(node *first);
 
 ## Usage
 
-The main function in the provided C code demonstrates the usage of these doubly linked list operations.
+The main function in the provided C code demonstrates the usage of these singly linked list operations.
 
  <div align="center">
 <br/>
